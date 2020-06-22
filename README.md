@@ -8,7 +8,7 @@ a rental website, on 3/20/20.
 
 This project is a part of the final evaluation of students on the Data Science Professional Certificate of
 Harvardx - Casptone, where each student must choose a dataset on internet and use tools they learned
-during the course, applying machine learning
+during the course, applying machine learning.
 
 We tested 10 machine learning models and finally we have chosen the ensemble model, equal to the mean
 prediction of Random Forest, Random Forest Rborist and Bayesian Regularized Neural Networks as our final
